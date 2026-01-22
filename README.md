@@ -1,1 +1,1 @@
-# C-Project
+# Grade Calculator
